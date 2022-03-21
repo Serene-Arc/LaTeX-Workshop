@@ -212,6 +212,10 @@
     "command": "textsc{text}",
     "snippet": "textsc{${1}}"
   },
+  "enquote{}":{
+    "command": "enquote{text}",
+    "snippet": "enquote{${1}}"
+  },
   "textsf{}": {
     "command": "textsf{text}",
     "snippet": "textsf{${1}}"
